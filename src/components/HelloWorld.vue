@@ -61,9 +61,9 @@ a {
   border: none;
   height:20rem;
   border-radius:5px;
-  background-color:rgb(187, 77, 13);
+  background-color:rgb(201, 181, 170);
   width: 20rem;
-  font-size:2.1rem;
+  font-size:1.4rem;
   font-weight:500;
   margin:1.2rem;
 }
