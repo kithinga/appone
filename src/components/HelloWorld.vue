@@ -8,6 +8,9 @@
       <button class="two">Ideaas</button>
       <button class="three">Artkit</button>
       <button class="four">Websites</button>
+      
+    <p>lorem20 tey</p>
+       
     </form>
   </div>
 </template>
